@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Cybersaksham-App/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28615384615384615" />
+        <entry key="..\:/Cybersaksham-App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.28615384615384615" />
+        <entry key="..\:/Cybersaksham-App/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.264" />
+        <entry key="..\:/Cybersaksham-App/app/src/main/res/mipmap-mdpi/ic_launcher_2.xml" value="0.28615384615384615" />
         <entry key="..\:/Portfolio/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15989583333333332" />
         <entry key="..\:/Portfolio/app/src/main/res/layout/activity_main.xml" value="0.20199275362318841" />
         <entry key="..\:/Portfolio/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.290625" />
